@@ -1,5 +1,10 @@
 # Nyatank (ESP32 WiFi Controlled Car)
-Microcontroller Firmware IDE
+![License](https://img.shields.io/badge/License-Apache_2.0-yellow)
+![Microcontroller](https://img.shields.io/badge/Microcontroller-ESP32-blue)
+![Firmware](https://img.shields.io/badge/Firmware-C++-blue)
+![IDE](https://img.shields.io/badge/IDE-Arduino-teal)
+![GitHub stars](https://img.shields.io/github/stars/Ras-pe/Nyacar)
+![GitHub forks](https://img.shields.io/github/forks/Ras-pe/Nyacar)
 ## 📖 Project Overview
 
 This project consists of a **mobile robotic vehicle controlled remotely through a web interface**.
