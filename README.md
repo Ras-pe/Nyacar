@@ -1,5 +1,5 @@
 # Nyatank (ESP32 WiFi Controlled Car)
-![License](https://img.shields.io/badge/License-Apache_2.0-yellow)
+
 ![Microcontroller](https://img.shields.io/badge/Microcontroller-ESP32-blue)
 ![Firmware](https://img.shields.io/badge/Firmware-C++-blue)
 ![IDE](https://img.shields.io/badge/IDE-Arduino-teal)
